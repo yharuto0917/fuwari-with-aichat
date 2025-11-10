@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 saicaca
+Copyright (c) 2024 saicaca and 2025 YAMAZAKI Haruto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,10 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+All fuwari features depend on the saicaca's license, and all AI features are depend on the YAMAZAKI Haruto's license.
+
+All AI features uses Vercel's AI SDK, Google GenAI SDK and Gemini Developer API. Please follow the licence of each libraries.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
